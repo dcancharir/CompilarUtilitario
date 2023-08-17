@@ -1,0 +1,17 @@
+[
+  {
+    "BD_ONLINE":"Data Source=.;Initial Catalog=BD_ONLINE;Integrated Security=False;User ID=sa;Password=147896321"
+  },
+  {
+    "BD_TECNOLOGIAS":"Data Source=.;Initial Catalog=BD_TECNOLOGIAS;Integrated Security=False;User ID=sa;Password=147896321"
+  },
+  {
+    "BD_SEGURIDAD_PJ":"Data Source=.;Initial Catalog=BD_SEGURIDAD_PJ;Integrated Security=False;User ID=sa;Password=147896321"
+  },
+  {
+    "BD_S3K_ADMINISTRATIVO_DATA":"Data Source=.;Initial Catalog=BD_S3K_ADMINISTRATIVO_DATA;Integrated Security=False;User ID=sa;Password=147896321"
+  },
+  {
+    "DEFAULT":""
+  }
+]
